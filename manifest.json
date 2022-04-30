@@ -1,0 +1,30 @@
+{
+        "format_version": 2,
+        "header": {
+            "name": "PinaCraft's Golden Pineapples",
+            "description": "Turns all apples into pineapples |By PNAPE & Han Programmer|",
+            "uuid": "e5b17516-70f8-4f65-b996-6df754721d3e",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "min_engine_version": [
+                1,
+                13,
+                0
+            ]
+        },
+        "modules": [
+            {
+                "description": "Turns all apples into pineapples |By PNAPE & Han Programmer|",
+                "type": "resources",
+                "uuid": "ce6adaed-7d78-4fa2-8b05-014997730e19",
+                "version": [
+                    1,
+                    0,
+                    0
+                ]
+            }
+        ]
+    }
